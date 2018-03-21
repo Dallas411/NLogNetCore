@@ -3,7 +3,7 @@ NLog Wrapper in Asp.Net Core 2.0 with Onion Architecture
 
 NLogNet Implements the standard solution
 
-All other projects implemented the solution with a structure based on Onion Architecture
+All other projects implements the solution with a structure based on Onion Architecture
 
 
 References
